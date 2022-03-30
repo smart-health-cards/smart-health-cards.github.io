@@ -17,7 +17,8 @@
   },
   {
     "iss": "https://icproxy.mycclink.org/proxy-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
-    "name": "Contra Costa Health Services"
+    "name": "Contra Costa Health Services",
+      "website": "https://google.com"
   },
   {
     "iss": "https://proxy.lvh.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
